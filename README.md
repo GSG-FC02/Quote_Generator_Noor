@@ -5,7 +5,7 @@ https://gsg-fc02.github.io/Quote_Generator_Noor/
  Quotes generator
 
 ## Project description
-- Quotes generator page provides a big and various types of quotes that you can publish on twitter directly.
+  Quotes generator page provides a big and various types of quotes that you can publish on twitter directly.
 
 # User stories
 - As a user, I want to see new quotes each time I visit quote generator page so that I keep visit the page.
